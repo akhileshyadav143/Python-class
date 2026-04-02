@@ -26,8 +26,8 @@
 #     print("you cannot vote")
 
 
-# wap to determin grade based on marks
 
+# wap to determin grade based on marks
 # marks=int(input("enter your marks"))
 # if marks>=90:
 #     print("Grade=A")
@@ -41,8 +41,8 @@
 #      print("Grade=E")       
 
 
-# wap ot find largest of three numbers
 
+# wap ot find largest of three numbers
 # number1=int(input("enter the  number"))
 # number2=int(input("enter the  number"))
 # number3=int(input("enter the  number"))
@@ -52,6 +52,8 @@
 #                            print("number2 is greater")
 # else:
 #    print("greater number3" )            
+
+
 
 # wap determine if a triangle is equlateral,isodceles,or scalene
 # side1=float(input("Enter the side 1 of triangle:"))
@@ -64,8 +66,31 @@
 # else:
 #     print("the triangle is scalar triangle")
 
-year=int(input("enter leap year"))
-if (year%4==0 and year!=100 )or (year%400==0) :
-    print(f"{year} is a leap year")
-else :
-        print("It is not a leap year")
+
+# year=int(input("enter leap year"))
+# if (year%4==0 and year!=100 )or (year%400==0) :
+#     print(f"{year} is a leap year")
+# else :
+#         print("It is not a leap year")
+
+
+# wap to input electricity unit changes and calculate
+# total elsericity bill.
+
+# units= float(input("Enter the electricity units consumed: "))
+# if units <= 50:
+#     bill = units * 0.50
+# elif units <= 150:
+#     bill = (50 * 0.50) + ((units - 50) * 0.75)
+# elif units <= 250:
+#     bill = (50 * 0.50) + (100 * 0.75) + ((units - 150) * 1.20)
+# else:
+#     bill = (50 * 0.50) + (100 * 0.75) + (100 * 1.20) + ((units - 250) * 1.50)
+# print(f"The total electricity bill for {units} units is: {bill:.2f}")
+# surcharge = bill * 0.20
+# bill += surcharge
+# print(f"A surcharge of 20% has been added to the bill for consuming more than 250 units.",bill)
+
+
+
+#error=1 case ==0, case2 =no parameter given 
