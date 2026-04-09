@@ -62,13 +62,13 @@
 
     
     
-n = int(input("Enter number: "))
-count = 0
-while n > 0:
-    n = n // 10
-    count += 1
+# n = int(input("Enter number: "))
+# count = 0
+# while n > 0:
+#     n = n // 10
+#     count += 1
     
-print("Total digits =", count)
+# print("Total digits =", count)
 
-# sum of digit
+# # sum of digit
 
