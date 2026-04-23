@@ -67,11 +67,11 @@
 # print(sorted(tpl,reverse=True))
 
 # tuple convert list
-tpl=(8,10,4,7,34,)
-tpl=list(tpl)
-tpl[4]=49
-tpl=tuple(tpl)
-print(tpl)
+# tpl=(8,10,4,7,34,)
+# tpl=list(tpl)
+# tpl[4]=49
+# tpl=tuple(tpl)
+# print(tpl)
 
-
+# 
 

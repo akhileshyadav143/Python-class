@@ -12,9 +12,11 @@
 # x="hello Akhilesh"
 # print(x[4])
 
-x="hello everyone let's learn "
-print=x[ : :-10]
+# x="hello everyone let's learn "
+# print=x[ : :-10]
 
-x[-10: :-5]
-x[-10:-1:5]
-x[-2:-11:-5]
+# x[-10: :-5]
+# x[-10:-1:5]
+# x[-2:-11:-5]
+
+
