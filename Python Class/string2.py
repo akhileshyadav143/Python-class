@@ -35,3 +35,15 @@ x=x.replace(".","$")
 x=x.replace(",",".")
 x=x.replace("$",",")
 print(x)
+
+# upper
+x="hello"
+x=x.upper()
+print(x)
+
+# lower
+x="Hello"
+x=x.lower()
+print(x)
+
+
