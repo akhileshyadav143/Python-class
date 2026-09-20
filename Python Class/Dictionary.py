@@ -38,19 +38,19 @@
 
 #  teavers
 
-dt={1:23,45:4,'hello':5.6,'hi':55,1:34,1:65}
+# dt={1:23,45:4,'hello':5.6,'hi':55,1:34,1:65}
 # for k,v in dt.items():
 #     print(k,v)
 
-for k in dt.keys():
-        print(k,dt[k])
+# for k in dt.keys():
+#         print(k,dt[k])
 
 
-dt={ 1:2,2:3,3:4,6:12,17:18,18:12}
-for key in dt.keys():
-        if int(key)%2==0:
-              dt[key]-=5
-        else:
-               dt[key] +=5 
+# dt={ 1:2,2:3,3:4,6:12,17:18,18:12}
+# for key in dt.keys():
+#         if int(key)%2==0:
+#               dt[key]-=5
+#         else:
+#                dt[key] +=5 
 
 

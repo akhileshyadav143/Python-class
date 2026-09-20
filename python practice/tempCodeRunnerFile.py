@@ -1,3 +1,4 @@
-marks=[86,89,76,89,45]
-# print(marks[1:3])
-# print(marks[-4:-1])
+l1.sort()
+# l1.reverse()
+# l1.insert(3,43)
+# print(l1)
