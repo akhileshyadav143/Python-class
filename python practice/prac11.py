@@ -16,8 +16,3 @@
 # print(l1)
 
 
-
-# tuple
-
-a=(1,)
-print(type(a))
